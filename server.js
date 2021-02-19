@@ -53,5 +53,5 @@ app.get('/api/animals', (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`API sever now on port 3001!`);
+    console.log(`API sever now on port ${PORT}!`);
 });
