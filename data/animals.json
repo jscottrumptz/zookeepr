@@ -136,6 +136,15 @@
         "loving"
       ],
       "id": "13"
+    },
+    {
+      "name": "Sean",
+      "species": "Cop",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "14"
     }
   ]
 }
