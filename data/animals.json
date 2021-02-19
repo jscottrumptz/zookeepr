@@ -126,6 +126,16 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Michelle",
+      "species": "Hotty",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
